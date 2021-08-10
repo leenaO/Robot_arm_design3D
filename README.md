@@ -4,9 +4,9 @@ There are a lot of programs that help us to design a robot arm, one of them is C
 
 Download Cinema 4D
 -------
-   For windows http://www.mediafire.com/file/9v9t1fv3pflihef/Cinema_4D_R19_%252B_Cl%25C3%25A9s.rar/file
+   For windows http://www.mediafire.com/file/9v9t1fv3pflihef/Cinema_4D_R19_%252B_Cl%25C3%25A9s.rar/file.
    
-   For mac http://www.mediafire.com/file/4ol7uywhkb33gxy/Cinema_4D_-_%2523FreeTheMac.rtf/file
+   For mac http://www.mediafire.com/file/4ol7uywhkb33gxy/Cinema_4D_-_%2523FreeTheMac.rtf/file.
 
 work steps
 -----------
@@ -24,7 +24,7 @@ work steps
   
   ![image](https://user-images.githubusercontent.com/46565265/128813595-c04f6462-c5af-4e0c-95e8-4319f0bf30d9.png)
   
-  5- Finally, merge the gripper
+  5- Finally, merge the gripper.
   
   ![image](https://user-images.githubusercontent.com/46565265/128814344-0225993a-68fa-4894-89eb-83861bd1dd3d.png)
   
